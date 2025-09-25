@@ -21,7 +21,7 @@ Projenin teknik anlatımları, `notebooks/` klasöründe yer alan Jupyter notebo
 
 # Veri Seti
 
-- **Kaynak:** [Kaggle - Concrete Crack Images for Classification](https://www.kaggle.com/datasets/balraj98/concrete-crack-images-for-classification)  
+- **Kaynak:** [Kaggle - Concrete Crack Images for Classification](https://www.kaggle.com/datasets/arnavr10880/concrete-crack-images-for-classification)  
 - **Boyut:** Toplam 40.000 görüntü  
   - Çatlaklı (Positive): 20.000  
   - Çatlak olmayan (Negative): 20.000  
